@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASM4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASM4.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\icomoon\\icomoon.css",
+      "PackagePath": "staticwebassets\\icomoon\\icomoon.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\icomoon\\selection.json"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\imgs\\1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\1.jpg"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\imgs\\2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\2.jpg"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\imgs\\3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\3.jpg"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\imgs\\4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\4.jpg"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\imgs\\5.jpg",
+      "PackagePath": "staticwebassets\\imgs\\5.jpg"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\imgs\\bookstore-logo.png",
+      "PackagePath": "staticwebassets\\imgs\\bookstore-logo.png"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\imgs\\main-banner1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\main-banner1.jpg"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\imgs\\main-banner2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\main-banner2.jpg"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\js\\slideNav.js",
+      "PackagePath": "staticwebassets\\js\\slideNav.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\js\\slideNav.min.js",
+      "PackagePath": "staticwebassets\\js\\slideNav.min.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASM4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASM4.props",
+      "PackagePath": "build\\ASM4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASM4.props",
+      "PackagePath": "buildMultiTargeting\\ASM4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASM4.props",
+      "PackagePath": "buildTransitive\\ASM4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

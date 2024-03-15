@@ -1,0 +1,43 @@
+﻿@model AMS4.Models.Book
+
+<div class="container mt-5">
+    <div class="card">
+        <h5 class="card-header">Book Details</h5>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered">
+                    <tbody>
+                        <tr>
+                            <th style="padding-left: 5px;">ID</th>
+                            <td>@Model.Id</td>
+                        </tr>
+                        <tr>
+                            <th style="padding-left: 5px;">Title</th>
+                            <td>@Model.Title</td>
+                        </tr>
+                        <tr>
+                            <th style="padding-left: 5px;">Author</th>
+                            <td>@Model.Author</td>
+                        </tr>
+                        <tr>
+                            <th style="padding-left: 5px;">Description</th>
+                            <td>@Model.Description</td>
+                        </tr>
+                        <tr>
+                            <th style="padding-left: 5px;">Price</th>
+                            <td>@Model.Price</td>
+                        </tr>
+                        <tr>
+                            <th style="padding-left: 5px;">Image</th>
+                            <td><img src="~/imgs/@Model.Image" alt="No Image" class="img-fluid" style="max-width: 300px;" /></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="card-footer text-right">
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-primary" })
+            <a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>

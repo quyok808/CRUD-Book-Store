@@ -1,0 +1,44 @@
+﻿@model AMS4.Models.Book
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h3>Are you sure you want to delete this?</h3>
+    <div>
+        <h4>Book</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">ID:</dt>
+            <dd class="col-sm-10">@Model.Id</dd>
+
+            <dt class="col-sm-2">Title:</dt>
+            <dd class="col-sm-10">@Model.Title</dd>
+
+            <dt class="col-sm-2">Author:</dt>
+            <dd class="col-sm-10">@Model.Author</dd>
+
+            <dt class="col-sm-2">Description:</dt>
+            <dd class="col-sm-10">@Model.Description</dd>
+
+            <dt class="col-sm-2">Price:</dt>
+            <dd class="col-sm-10">@Model.Price</dd>
+
+            <dt class="col-sm-2">Image:</dt>
+            <dd class="col-sm-10">
+                <img src="~/imgs/@Model.Image" alt="Book Image" style="max-width: 100px; max-height: 150px;" />
+            </dd>
+        </dl>
+
+        <div class="d-flex justify-content-between">
+            <form asp-action="Delete">
+                <input type="submit" value="Delete" class="btn btn-danger" />
+            </form>
+            <form asp-action="Index">
+                <button type="submit" class="btn btn-outline-secondary">Back to List</button>
+            </form>
+        </div>
+    </div>
+</div>

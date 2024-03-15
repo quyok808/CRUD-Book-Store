@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|d:\\tai lieu\\lap_trinh_web\\chinh\\buoi4\\asm4\\asm4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|solutionrelative:asm4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|d:\\tai lieu\\lap_trinh_web\\chinh\\buoi4\\asm4\\asm4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|solutionrelative:asm4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|d:\\tai lieu\\lap_trinh_web\\chinh\\buoi4\\asm4\\asm4\\data\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|solutionrelative:asm4\\data\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|d:\\tai lieu\\lap_trinh_web\\chinh\\buoi4\\asm4\\asm4\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|solutionrelative:asm4\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|d:\\tai lieu\\lap_trinh_web\\chinh\\buoi4\\asm4\\asm4\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|solutionrelative:asm4\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|d:\\tai lieu\\lap_trinh_web\\chinh\\buoi4\\asm4\\asm4\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAE1D5DA-A738-4369-80A3-FFEA9D086EC7}|ASM4\\ASM4.csproj|solutionrelative:asm4\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Data\\BookRepo.cs",
+              "RelativeDocumentMoniker": "ASM4\\Data\\BookRepo.cs",
+              "ToolTip": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Data\\BookRepo.cs",
+              "RelativeToolTip": "ASM4\\Data\\BookRepo.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwDQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:17:21.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASM4\\Views\\Book\\Details.cshtml",
+              "ToolTip": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "ASM4\\Views\\Book\\Details.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T14:07:57.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ASM4\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "ASM4\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T13:53:15.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASM4\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "ASM4\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwC4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T13:46:50.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASM4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASM4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T19:00:18.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASM4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\tai lieu\\Lap_Trinh_Web\\CHINH\\buoi4\\ASM4\\ASM4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASM4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T18:59:14.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
